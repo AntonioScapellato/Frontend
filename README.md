@@ -1,12 +1,12 @@
 # Frontend UI/UX
 
-Bootstrap
+_Bootstrap_
  https://getbootstrap.com/docs/4.4/examples/
 
-Google Material Design Lite
+_Google Material Design Lite_
  https://getmdl.io/
 
-Free template:
+_Free templates:_
 
 1. Colorlib
     - https://colorlib.com/wp/templates/
