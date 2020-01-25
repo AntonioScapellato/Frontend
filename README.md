@@ -12,7 +12,7 @@ https://antonioscapellato.github.io/FrontEnd/bootstrap/extras.html
 
 GMDLite
 
-https://antonioscapellato.github.io/FrontEnd/gmld/basic.html
+https://antonioscapellato.github.io/FrontEnd/gmdl/basic.html
 
 
 **Bootstrap**
